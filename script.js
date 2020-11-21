@@ -1,6 +1,6 @@
 var urlprefix = ".ip.flares.cloud"
 var imgUrls = ["/img/s.webp", "/img/m.webp", "/img/l.webp"]
-var imgBytes = [117902, 1263924, 10914532]
+var imgBytes = [117902, 1263924, 10914532,209145320]
 var imgi = 1
 var pingInterval = 100
 var pingUrl = "/cdn-cgi/trace"
